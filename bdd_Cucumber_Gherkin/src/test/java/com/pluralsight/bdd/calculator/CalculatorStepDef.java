@@ -1,6 +1,5 @@
-package com.pluralsight.bdd;
+package com.pluralsight.bdd.calculator;
 
-import com.pluralsight.bdd.calculator.Calculator;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
